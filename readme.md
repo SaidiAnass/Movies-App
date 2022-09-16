@@ -19,3 +19,6 @@ depending on the OS or docker version.
 ## Demo
 https://user-images.githubusercontent.com/30219846/177527632-2a037a4f-d526-4f35-9e2a-7c62023bb1eb.mp4
 
+## Licence
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
